@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Q 1-4
+Added Component: Designator=R24(J1-0603)
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=NetQ 1_4 Pin=Q 1-4
+Added Pin To Net: NetName=NetQ 1_4 Pin=R24-1
+Added Net: Name=NetQ 1_4
+Added Member To Class: ClassName=V_A meter Member=Component R24 Res3

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-14
+Added Component: Designator=W3(PCBComponent_1)
+Added Pin To Net: NetName=NetR1_1 Pin=W3-1
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Pin To Net: NetName=NetU1_14 Pin=W3-2
+Added Net: Name=NetU1_14
+Added Member To Class: ClassName=MK Member=Component W3 Jumper

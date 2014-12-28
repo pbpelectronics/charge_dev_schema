@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-1
+Removed Pin From Net: NetName=GND Pin=U?-12
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-13
+Removed Pin From Net: NetName=NetR1_2 Pin=U?-15
+Removed Pin From Net: NetName=NetR10_1 Pin=U?-16
+Removed Pin From Net: NetName=NetR8_1 Pin=U?-17
+Removed Pin From Net: NetName=GND Pin=U?-18
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-19
+Removed Pin From Net: NetName=GND Pin=U?-31
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-32
+Removed Pin From Net: NetName=GND Pin=U?-47
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-48
+Removed Pin From Net: NetName=GND Pin=U?-63
+Removed Pin From Net: NetName=NetDQ 1_3 Pin=U?-64
+Change Component Designator: OldDesignator=D ? NewDesignator=D 1
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Added Component: Designator=U1(STM-LQFP64_N)
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-13
+Added Pin To Net: NetName=NetR1_2 Pin=U1-15
+Added Pin To Net: NetName=NetR10_1 Pin=U1-16
+Added Pin To Net: NetName=NetR8_1 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=NetDQ 1_3 Pin=U1-64
+Change Net Name : Old Net Name=NetD ?_1 New Net Name=NetD 1_1
+Change Net Name : Old Net Name=NetD ?_2 New Net Name=NetD 1_2
+Added Member To Class: ClassName=MK Member=Component U1 STM32F100R6T6B

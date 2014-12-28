@@ -1,0 +1,14 @@
+Added Component: Designator=D8(PCBComponent_1 - duplicate1)
+Added Component: Designator=D9(PCBComponent_1 - duplicate1)
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=U1-25
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD9_3 Pin=D9-3
+Added Pin To Net: NetName=NetD9_3 Pin=U1-38
+Added Net: Name=NetD9_3
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_4 Pin=U1-39
+Added Net: Name=NetD9_4
+Added Member To Class: ClassName=MK Member=Component D8 LED1
+Added Member To Class: ClassName=MK Member=Component D9 LED1

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetD 1_2 Pin=D 1-2
+Added Pin To Net: NetName=NetD 1_2 Pin=R7-2
+Added Net: Name=NetD 1_2
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=Designator
+Added Room: Name=display
+Added Room: Name=MK
+Added Room: Name=V_A meter

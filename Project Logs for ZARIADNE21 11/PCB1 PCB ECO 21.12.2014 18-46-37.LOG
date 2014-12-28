@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR7_1 Pin=R8-2
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RPot New DesignItemId=RPot SM
+Change Component Footprint: Designator=R8 Old Footprint=VR5 New Footprint=POT4MM-2
+Change Component Comment : Designator=R8 Old Comment=RPot New Comment=RPot SM
+Added Pin To Net: NetName=NetR7_1 Pin=R8-CW
+Added Pin To Net: NetName=NetR8_CCW Pin=R8-CCW
+Added Pin To Net: NetName=NetR8_CCW Pin=R8-W
+Added Pin To Net: NetName=NetR8_CCW Pin=R9-1
+Added Pin To Net: NetName=NetR8_CCW Pin=U1-16
+Added Net: Name=NetR8_CCW

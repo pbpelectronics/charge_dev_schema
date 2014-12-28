@@ -1,0 +1,4 @@
+Added Component: Designator=R28(J1-0603)
+Added Pin To Net: NetName=Netlcd 1_A4 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Member To Class: ClassName=display Member=Component R28 Res3

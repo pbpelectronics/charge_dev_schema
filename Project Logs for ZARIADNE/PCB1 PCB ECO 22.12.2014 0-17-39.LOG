@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Added Component: Designator=R?(J1-0603)
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R27-1
+Added Pin To Net: NetName=NetR17_2 Pin=R?-2
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=display Member=Component C3 Cap Semi
+Added Member To Class: ClassName=display Member=Component DQ 2 lm117
+Added Member To Class: ClassName=display Member=Component R? Res3

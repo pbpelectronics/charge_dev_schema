@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetR8_CCW Pin=U1-15
+Added Component: Designator=J5(PIN1)
+Added Component: Designator=J6(PIN1)
+Added Pin To Net: NetName=NetR8_CCW Pin=J5-1
+Change Net Name : Old Net Name=NetR8_CCW New Net Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U1-15
+Added Net: Name=NetJ6_1
+Added Member To Class: ClassName=MK Member=Component J5 Socket
+Added Member To Class: ClassName=MK Member=Component J6 Socket
+Added Member To Class: ClassName=V_A meter Member=Component R2 Res1
+Added Member To Class: ClassName=V_A meter Member=Component R24 Res3

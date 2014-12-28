@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Q 1-4
+Added Component: Designator=W3(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=Q 1-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=W3-1
+Added Pin To Net: NetName=NetQ 1_4 Pin=Q 1-4
+Added Pin To Net: NetName=NetQ 1_4 Pin=W3-2
+Added Net: Name=NetQ 1_4
+Added Member To Class: ClassName=V_A meter Member=Component W3 Jumper

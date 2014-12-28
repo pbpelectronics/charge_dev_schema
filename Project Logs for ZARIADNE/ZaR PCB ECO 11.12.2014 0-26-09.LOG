@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P2 Old Comment=MHDR1X2 New Comment=OUT
+Change Component Comment : Designator=P1 Old Comment=MHDR1X2 New Comment=POWER
+Added Component: Designator=D?(TO-226-AE)
+Added Member To Class: ClassName=3 Member=Component D? LM335

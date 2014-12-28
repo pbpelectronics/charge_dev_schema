@@ -1,0 +1,4 @@
+Added Component: Designator=W2(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=W2-1
+Added Pin To Net: NetName=GND Pin=W2-2
+Added Member To Class: ClassName=2 Member=Component W2 Jumper

@@ -1,0 +1,4 @@
+Added Component: Designator=R29(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Member To Class: ClassName=Designator Member=Component R29 Res1
