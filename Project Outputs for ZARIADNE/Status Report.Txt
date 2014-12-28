@@ -17,4 +17,4 @@ From  : Variant [[No Variations]] of Project [ZARIADNE.PrjPCB]
 Files Generated   : 11
 Documents Printed : 0
 
-Finished Output Generation At 23:29:29 On 28.12.2014
+Finished Output Generation At 0:51:33 On 29.12.2014
