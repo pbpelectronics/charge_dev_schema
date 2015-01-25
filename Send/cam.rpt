@@ -1,0 +1,14 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Shade\Desktop\charge_dev_schema\Send\cam.drl
+Format: 2.4
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0236		10
+ 2 		0.0354		41
+ 3 		0.0591		4
